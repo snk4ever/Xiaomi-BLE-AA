@@ -6,3 +6,5 @@ Disclaimer: I'm not a good CAD designer. If you are, you will probably facepalm 
 It's designed to be used with this AA battery holder from a French retailler:
 
 https://www.e44.com/alimentations/accus-batteries-piles/piles/supports-piles/supports-piles-aa/2-piles/coupleur-2-piles-aa-r06-sorties-fils-SR62-.html 
+
+I printed the STL with the front at the bottom and enabling support for the circle part.
